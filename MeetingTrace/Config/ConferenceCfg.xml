@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<conferenceInfos>
+  <conferenceInfo id="1" title="Writing Fast Tests Against Enterprise Rails" type="Fixed" time="60" ></conferenceInfo>
+  <conferenceInfo id="2" title="Overdoing it in Python" type="Fixed" time="45" ></conferenceInfo>
+  <conferenceInfo id="3" title="Lua for the Masses" type="Fixed" time="30" ></conferenceInfo>
+  <conferenceInfo id="4" title="Ruby Errors from Mismatched Gem Versions" type="Fixed" time="45" ></conferenceInfo>
+  <conferenceInfo id="5" title="Common Ruby Errors" type="Fixed" time="45" ></conferenceInfo>
+  <conferenceInfo id="6" title="Rails for Python Developers" type="Range" time="0" ></conferenceInfo>
+  <conferenceInfo id="7" title="Communicating Over Distance" type="Fixed" time="60" ></conferenceInfo>
+  <conferenceInfo id="8" title="Accounting-Driven Development" type="Fixed" time="45" ></conferenceInfo>
+  <conferenceInfo id="9" title="Woah" type="Fixed" time="30" ></conferenceInfo>
+  <conferenceInfo id="10" title="Sit Down and Write" type="Fixed" time="30" ></conferenceInfo>
+  <conferenceInfo id="11" title="Pair Programming vs Noise" type="Fixed" time="45" ></conferenceInfo>
+  <conferenceInfo id="12" title="Rails Magic" type="Fixed" time="60" ></conferenceInfo>
+  <conferenceInfo id="13" title="Ruby on Rails: Why We Should Move On" type="Fixed" time="60" ></conferenceInfo>
+  <conferenceInfo id="14" title="Clojure Ate Scala (on my project)" type="Fixed" time="45" ></conferenceInfo>
+  <conferenceInfo id="15" title="Programming in the Boondocks of Seattle" type="Fixed" time="30" ></conferenceInfo>
+  <conferenceInfo id="16" title="Ruby vs. Clojure for Back-End Development" type="Fixed" time="30" ></conferenceInfo>
+  <conferenceInfo id="17" title="Ruby on Rails Legacy App Maintenance" type="Fixed" time="60" ></conferenceInfo>
+  <conferenceInfo id="18" title="A World Without HackerNews" type="Fixed" time="30" ></conferenceInfo>
+  <conferenceInfo id="19" title="User Interface CSS in Rails Apps" type="Fixed" time="30" ></conferenceInfo>
+</conferenceInfos>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../ConferenceCore" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../MeetingTrace" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../ConferenceCore/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../ConferenceCore/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../MeetingTrace/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../MeetingTrace/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
